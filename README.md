@@ -2,87 +2,55 @@
 
 2022.09.14 初步想法 v1.0
 
+原因：六年级的小朋友看不懂高年级的数学书，故为其准备此对照表。
+
+如有错误/建议可联系(QQ): 35686828
+
+[Github官方Markdown 语法参考](https://docs.github.com/zh/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+
+
 $$
 a+b
 $$
 
 ⼀. 常⽤数学符号markdown表⽰
-乘号，正负号: $\times$ $\pm$
-除号，竖线: $\div$ $\mid$
-⋅
-点：
-: 
-$\cdot$
-∘
-圆
-: 
-$\circ$
-⨂
-克罗内克积
-: 
-$\bigotimes$
-⨁
-异或
-: 
-$\bigoplus$
-≤≥=
-⼩于等于，⼤于等于 不等于
-: 
-$\leq$ $\geq$ $\neq$
-≈
-约等于
-: 
-$\approx$
-∫∬∮
-积分，双重积分，曲线积分
-: 
-$\int$ $\iint$ $\oint$
-∞
-⽆穷
-: 
-$\infty$
-∇
-梯度
-: 
-$\nabla$
-∵
-∴
-因为，所以
- 和 
-$\because$ 和 $\therefore$
-∀
-∃
-任意和存在
-: 
- 和 
-$\forall$ 和 $\exists$
-/
-∈
-∈
-属于和不属于
-: 
- 和 
-$\in$ 和 $\notin$
-⊂
-⊆
-∅
-⼦集，真⼦集，空集
-: 
-，
-，
-$\subset$，$\subseteq$，$\emptyset$
-⋂
-⋃
-交集和并集
-:
- 和 
-$\bigcap$ 和 $\bigcup$
-⋁
-⋀
-逻辑或 和 逻辑与:
- 和 
-$\bigvee$ 和 $\bigwedge$
-^
-y
-期望值: $\hat{y}$
-a+b+c+d&#10;
+| 符号&写法 | Word可复制 | 中文读法 | Markdown语法 | 意义 |
+| :---: | --- | --- | --- | --- |
+| $\times$ | × | 乘号 | '$\times$' | 乘法 | 
+| $\pm$  | ± | 正负号  | '$\pm$' | xxx | 
+| $\div$ | ÷ | 除号 | '$\div$' | xxx |
+| $\mid$ | ∣ | 竖线 | '$\mid$' | 整除 |
+| $\cdot$ | ⋅ | 点 | '$\cdot$' | xxx |
+| $\circ$ | ∘ | 圆 | '$\circ$' | xxx |
+| $\bigotimes$ | ⨂ | 克罗内克积 | '$\bigotimes$' | xxx |
+| $\bigoplus$ | ⨁ | 异或 | '$\bigoplus$' | xxx |
+| $\leq$ | ≤ | ⼩于等于 | '$\leq$' | xxx |
+| $\geq$ | ≥ | ⼤于等于 | '$\geq$' | xxx |
+| $\neq$ | ≠ | 不等于 | '$\neq$' | xxx |
+| $\approx$ | ≈ | 约等于 | '$\approx$' | xxx |
+| $\int$ | ∫ | 积分 | '$\int$' | xxx |
+| $\iint$ | ∬ | 双重积分 | '$\iint$' | xxx |
+| $\oint$ | ∮ | 曲线积分 | '$\oint$' | xxx |
+| $\infty$ | ∞ | ⽆穷 | '$\infty$' | xxx |
+| $\nabla$ | ∇ | 梯度 | '$\nabla$' | xxx |
+| $\because$ | ∵ | 因为 | '$\because$' | xxx |
+| $\therefore$ | ∴ | 所以 | '$\therefore$' | xxx |
+| $\forall$ | ∀ | 任意 | '$\forall$' | xxx |
+| $\exists$ | ∃ | 存在 | '$\exists$' | xxx |
+| $\in$ | ∈ | 属于 | '$\in$' | xxx |
+| $\notin$ | ∉ | 不属于 | '$\notin$' | xxx |
+| $\subset$ | ⊂ | ⼦集 | '$\subset$' | xxx |
+| $\subseteq$ | ⊆ | 真⼦集 | '$\subseteq$' | xxx |
+| $\emptyset$ | ∅ | 空集 | '$\emptyset$' | xxx |
+| $\bigcap$ | ⋂ | 交集 | '$\bigcap$' | xxx |
+| $\bigcup$ | ⋃  | 并集 | '$\bigcup$' | xxx |
+| $\bigvee$ | ⋁ | 逻辑或 | '$\bigvee$' | xxx |
+| $\bigwedge$ | ⋀ | 逻辑与 | '$\bigwedge$' | xxx |
+| $\hat{y}$ | -- | 期望值 | '$\hat{y}$' | xxx |
+|  |  |  |  v1.01 | 2023-12-22 |
+
+
+
+
+|  |  |  |  v1.01 | 2023-12-22 |
+|  |  | 文字 | '' | xxx |
