@@ -1,4 +1,4 @@
-# Mathymbols (Math symbols)
+# Mathymbols (Mathematical symbols)
 
 2022.09.14 初步想法 v1.0
 
@@ -7,6 +7,7 @@
 如有错误/建议可联系(QQ): 35686828
 
 [Github官方Markdown 语法参考](https://docs.github.com/zh/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[wikibooks List_of_mathematical_symbols](https://en.wikibooks.org/wiki/LaTeX/Mathematics#List_of_mathematical_symbols)
 
 
 $$
@@ -41,6 +42,7 @@ $$
 | $\notin$ | ∉ | 不属于 | '$\notin$' | xxx |
 | $\subset$ | ⊂ | ⼦集 | '$\subset$' | xxx |
 | $\subseteq$ | ⊆ | 真⼦集 | '$\subseteq$' | xxx |
+| $\supseteq$	 | ⊇ | 文字 | '$\supseteq$' | xxx |
 | $\emptyset$ | ∅ | 空集 | '$\emptyset$' | xxx |
 | $\bigcap$ | ⋂ | 交集 | '$\bigcap$' | xxx |
 | $\bigcup$ | ⋃  | 并集 | '$\bigcup$' | xxx |
@@ -48,9 +50,50 @@ $$
 | $\bigwedge$ | ⋀ | 逻辑与 | '$\bigwedge$' | xxx |
 | $\hat{y}$ | -- | 期望值 | '$\hat{y}$' | xxx |
 |  |  |  |  v1.01 | 2023-12-22 |
+| < | < | 文字 | '<' | xxx |
+| > | > | 文字 | '>' | xxx |
+| = | = | 文字 | '=' | xxx |
+| $\parallel$ | ∥ | 文字 | '\parallel' | xxx |
+| $\nparallel$ | ∦ | 文字 | '\nparallel' | xxx |
+| $\doteq$ | ≐ | 文字 | '\doteq' | xxx |
+| $\asymp$ | ≍ | 文字 | '\asymp' | xxx |
+| $\bowtie$ | ⋈ | 文字 | '\bowtie' | xxx |
+| $\ll$ | ≪ | 文字 | '\ll' | xxx |
+| $\gg$ | ≫ | 文字 | '\gg' | xxx |
+| $\equiv$ | ≡ | 文字 | '\equiv' | xxx |
+| $\vdash$ | ⊢ | 文字 | '\vdash' | xxx |
+| $\dashv$ | ⊣ | 文字 | '\dashv' | xxx |
+| $\supset$ | ⊃ | 文字 | '\supset' | xxx |
+| $\ni$ | ∋ | 文字 | '\ni' | xxx |
+| $\cong$ | ≅ | 文字 | '\cong' | xxx |
+| $\smile$ | ⌣ | 文字 | '\smile' | xxx |
+| $\frown$ | ⌢ | 文字 | '\frown' | xxx |
+| $\nsubseteq$ | ⊈ | 文字 | '\nsubseteq' | xxx |
+| $\nsupseteq$ | ⊉ | 文字 | '\nsupseteq' | xxx |
+| $\simeq$ | ≃ | 文字 | '\simeq' | xxx |
+| $\models$ | ⊨ | 文字 | '\models' | xxx |
+| $\notin$ | ∉ | 文字 | '\notin' | xxx |
+| $\sqsubset$ | ⊏ | 文字 | '\sqsubset' | xxx |
+| $\sqsupset$ | ⊐ | 文字 | '\sqsupset' | xxx |
+| $\sim$ | ∼ | 文字 | '\sim' | xxx |
+| $\perp$ | ⊥ | 文字 | '\perp' | xxx |
+| $\sqsubseteq$ | ⊑ | 文字 | '\sqsubseteq' | xxx |
+| $\sqsupseteq$ | ⊒ | 文字 | '\sqsupseteq' | xxx |
+| $\propto$ | ∝ | 文字 | '\propto' | xxx |
+| $\prec$ | ≺ | 文字 | '\prec' | xxx |
+| $\succ$ | ≻ | 文字 | '\succ' | xxx |
+| $\preceq$ | ⪯ | 文字 | '\preceq' | xxx |
+| $\succeq$ | ⪰ | 文字 | '\succeq' | xxx |
+| $\sphericalangle$ | ∢ | 文字 | '\sphericalangle' | xxx |
+| $\measuredangle$ | ∡ | 文字 | '\measuredangle' | xxx |
+| $$ |  | 文字 | '' | xxx |
+| $$ |  | 文字 | '' | xxx |
+| $$ |  | 文字 | '' | xxx |
+| $$ |  | 文字 | '' | xxx |
+| $$ |  | 文字 | '' | xxx |
 
 
 
 
 |  |  |  |  v1.01 | 2023-12-22 |
-|  |  | 文字 | '' | xxx |
+| $$ |  | 文字 | '' | xxx |
