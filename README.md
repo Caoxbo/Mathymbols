@@ -86,6 +86,7 @@ $$
 | $\succeq$ | ⪰ | 文字 | '\succeq' | xxx |
 | $\sphericalangle$ | ∢ | 文字 | '\sphericalangle' | xxx |
 | $\measuredangle$ | ∡ | 文字 | '\measuredangle' | xxx |
+|  |  |  |  v1.02 | 2023-12-23 |
 | $$ |  | 文字 | '' | xxx |
 | $$ |  | 文字 | '' | xxx |
 | $$ |  | 文字 | '' | xxx |
